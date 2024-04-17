@@ -1,0 +1,129 @@
+header {
+    background-color: #FFD900;
+   
+    
+    
+    
+}
+
+#logo {
+    padding: 20px;
+    margin: 0px;
+    margin-left: 30px;
+}
+
+#reviva{
+    background-color: #514988;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 60px;
+    padding-left: 60px;
+}
+
+#reviva h1{ 
+    color: #F3C61F;
+    font-size: 70px;
+    
+}
+
+#reviva h2{
+    color: white;
+    font-size: 30px;
+}
+
+#reviva p{
+    color: white;
+    font-size: 30px;
+
+}
+
+.timer {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns:auto;
+    
+}
+
+#countdown1{
+    color: #514988;
+    display: grid;
+    grid-auto-flow: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    margin-left: 100px;
+    font-size: 25px;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+#countdown1 p{
+    font-size: 20px;
+    margin-top: 0;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+.timer h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#E33881;
+    margin-left: 80px;
+    font-size: 30px;
+    
+}
+
+.timer video{
+    align-items: center;
+    padding-left: 60px;
+}
+
+
+
+button{
+    background-color: #514988;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+    width: 500px;
+    height: 150px;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    align-items: center;
+    
+
+}
+
+button:hover {
+    background: #514988;
+    cursor:pointer;
+    color: #F3C61F;
+}
+
+#dias {
+    display: flex;
+    grid-auto-columns: auto;
+    align-content: space-around;
+    align-items: center;
+   
+    
+
+}
+
+#garanta{
+    color: #F3C61F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+footer {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: auto;
+  
+    
+    
+}
