@@ -76,7 +76,11 @@ header {
 
 .timer video {
     align-items: center;
-    padding-left: 60px;
+    margin-left: 60px;
+    border-color: #F3C61F;
+    border-radius: 10px;
+    border-style: dotted;
+    align-items: center;
 }
 
 
