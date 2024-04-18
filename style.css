@@ -1,9 +1,9 @@
 header {
     background-color: #FFD900;
-   
-    
-    
-    
+
+
+
+
 }
 
 #logo {
@@ -12,7 +12,7 @@ header {
     margin-left: 30px;
 }
 
-#reviva{
+#reviva {
     background-color: #514988;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
@@ -20,18 +20,18 @@ header {
     padding-left: 60px;
 }
 
-#reviva h1{ 
+#reviva h1 {
     color: #F3C61F;
     font-size: 70px;
-    
+
 }
 
-#reviva h2{
+#reviva h2 {
     color: white;
     font-size: 30px;
 }
 
-#reviva p{
+#reviva p {
     color: white;
     font-size: 30px;
 
@@ -40,11 +40,11 @@ header {
 .timer {
     display: grid;
     grid-auto-flow: column;
-    grid-auto-columns:auto;
-    
+    grid-auto-columns: auto;
+
 }
 
-#countdown1{
+#countdown1 {
     color: #514988;
     display: grid;
     grid-auto-flow: column;
@@ -56,7 +56,7 @@ header {
     margin-bottom: 0;
 }
 
-#countdown1 p{
+#countdown1 p {
     font-size: 20px;
     margin-top: 0;
     font-weight: bolder;
@@ -66,22 +66,22 @@ header {
 
 
 
-.timer h3{
+.timer h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:#E33881;
+    color: #E33881;
     margin-left: 80px;
     font-size: 30px;
-    
+
 }
 
-.timer video{
+.timer video {
     align-items: center;
     padding-left: 60px;
 }
 
 
 
-button{
+button {
     background-color: #514988;
     color: white;
     border: 0;
@@ -92,13 +92,13 @@ button{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
     align-items: center;
-    
+
 
 }
 
 button:hover {
     background: #514988;
-    cursor:pointer;
+    cursor: pointer;
     color: #F3C61F;
 }
 
@@ -107,15 +107,15 @@ button:hover {
     grid-auto-columns: auto;
     align-content: space-around;
     align-items: center;
-   
-    
+
+
 
 }
 
-#garanta{
+#garanta {
     color: #F3C61F;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 25px;
+    font-size: 26px;
     margin-left: 40px;
 }
 
@@ -123,7 +123,7 @@ footer {
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: auto;
-  
-    
-    
+
+
+
 }
